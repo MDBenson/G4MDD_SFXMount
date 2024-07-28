@@ -2,7 +2,7 @@ This 2-piece bracket allows a modern SFX-size PSU to attach to the inner back-wa
 
 Some kind of adhesive pad (I used stacked double-stick silicon tape) is needed to anchor the PSU at the 'front' end.
 
-To mount the PSU you will need 4x 6/32 UNC countersunk screws of appropriatem length.
+To mount the PSU you will need 4x 6/32 UNC countersunk screws of appropriate length.
 To mount the upright frame to the base you will need 2x M3 (or equivalent) countersunk screws, washers and nuts.
 
 NOTE: With a SFX PSU mounted in this bracket the tolerance between the AGP GPU card and the PSU body in the G4 is basically zero mm, with some larger cards resting against the PSU when the side door is shut. Please be careful and ensure you aren't going to damage your GPU card by slamming or forcing the door when it won't fit.
